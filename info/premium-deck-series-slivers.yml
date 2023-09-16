@@ -1,0 +1,19 @@
+---
+object: set
+id: 3a045e59-64b5-465d-9dbd-f4ddadf8f4dc
+code: h09
+mtgo_code: h09
+arena_code: h09
+tcgplayer_id: 91
+name: 'Premium Deck Series: Slivers'
+uri: https://api.scryfall.com/sets/3a045e59-64b5-465d-9dbd-f4ddadf8f4dc
+scryfall_uri: https://scryfall.com/sets/h09
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ah09&unique=prints
+released_at: '2009-11-20'
+set_type: premium_deck
+card_count: 41
+printed_size: 41
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/h09.svg?1694404800
